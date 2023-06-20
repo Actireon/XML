@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<bugReport>
+  <summary>The button [Buy] is not clickable in the block 'Trading calculator' in menu section [CFD calculator]</summary>
+  <steps>
+    <firstStep>Navigate to capital.com</firstStep>
+    <secondStep>Hover over the menu section [Markets]</secondStep>
+    <thirdStep>Click menu section [CFD Calculator]</thirdStep>
+    <fourthStep>Scroll down to block 'Trading calculator</fourthStep>
+    <fifthStep>Click button [Buy]</fifthStep>
+  </steps>
+  <expected result>The button [Buy] is clickable and redirection to 'Sign up' page is taking place</expected result>
+  <actual result>The button [Buy] is not clickable and redirection to 'Sign up' page is not taking place"</actual result>
+  <severity>Major</severity>
+</bugReport>
